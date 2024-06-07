@@ -1,13 +1,14 @@
 <H1>Cấu trúc thư mục</H1>
-dist: Thư mục chứa các file build
-src: Thư mục chứa mã nguồn
-src/constants: Chứa các file chứa các hằng số
-src/middlewares: Chứa các file chứa các hàm xử lý middleware, như validate, check token, ...
-src/controllers: Chứa các file nhận request, gọi đến service để xử lý logic nghiệp vụ, trả về response
-src/services: Chứa các file chứa method gọi đến database để xử lý logic nghiệp vụ
-src/models: Chứa các file chứa các model
-src/routes: Chứa các file chứa các route
-src/utils: Chứa các file chứa các hàm tiện ích, như mã hóa, gửi email, ...
+<div>dist: Thư mục chứa các file build</div>
+<div>src: Thư mục chứa mã nguồn</div>
+<div>src/constants: Chứa các file chứa các hằng số</div>
+<div>src/middlewares: Chứa các file chứa các hàm xử lý middleware, như validate, check token, ...</div>
+<div>src/controllers: Chứa các file nhận request, gọi đến service để xử lý logic nghiệp vụ, trả về response</div>
+<div>src/controllers: Chứa các file nhận request, gọi đến service để xử lý logic nghiệp vụ, trả về response</div>
+<div>src/services: Chứa các file chứa method gọi đến database để xử lý logic nghiệp vụ</div>
+<div>src/models: Chứa các file chứa các model</div>
+<div>src/routes: Chứa các file chứa các route</div>
+<div>src/utils: Chứa các file chứa các hàm tiện ích, như mã hóa, gửi email, ...</div>
 
 <h2>Lệnh chạy dư án</h2>
 <b>npm run dev</b>
