@@ -4,7 +4,6 @@
 <div>src/constants: Chứa các file chứa các hằng số</div>
 <div>src/middlewares: Chứa các file chứa các hàm xử lý middleware, như validate, check token, ...</div>
 <div>src/controllers: Chứa các file nhận request, gọi đến service để xử lý logic nghiệp vụ, trả về response</div>
-<div>src/controllers: Chứa các file nhận request, gọi đến service để xử lý logic nghiệp vụ, trả về response</div>
 <div>src/services: Chứa các file chứa method gọi đến database để xử lý logic nghiệp vụ</div>
 <div>src/models: Chứa các file chứa các model</div>
 <div>src/routes: Chứa các file chứa các route</div>
